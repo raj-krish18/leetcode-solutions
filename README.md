@@ -22,6 +22,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/raj-krish18/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/raj-krish18/leetcode-solutions/tree/master/0067-add-binary) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,8 +37,21 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0228-summary-ranges](https://github.com/raj-krish18/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
