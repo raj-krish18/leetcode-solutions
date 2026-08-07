@@ -12,6 +12,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raj-krish18/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/raj-krish18/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/raj-krish18/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/raj-krish18/leetcode-solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
@@ -42,6 +43,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raj-krish18/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Number Theory
@@ -56,4 +58,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/raj-krish18/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/raj-krish18/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
