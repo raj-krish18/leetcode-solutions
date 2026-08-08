@@ -23,12 +23,14 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/raj-krish18/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/raj-krish18/leetcode-solutions/tree/master/0067-add-binary) |
+| [0779-k-th-symbol-in-grammar](https://github.com/raj-krish18/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/raj-krish18/leetcode-solutions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/raj-krish18/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raj-krish18/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/raj-krish18/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
