@@ -47,6 +47,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/raj-krish18/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/raj-krish18/leetcode-solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Number Theory
 |  |
