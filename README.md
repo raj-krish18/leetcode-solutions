@@ -43,6 +43,7 @@
 | [0039-combination-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0228-summary-ranges](https://github.com/raj-krish18/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0240-search-a-2d-matrix-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Backtracking
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -92,4 +94,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
