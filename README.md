@@ -13,6 +13,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raj-krish18/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/raj-krish18/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/raj-krish18/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/raj-krish18/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/raj-krish18/leetcode-solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
