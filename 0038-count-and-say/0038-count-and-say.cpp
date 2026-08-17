@@ -21,7 +21,7 @@ public:
                 ch = dh;
             }
         }
-        ztr += to_string(freq) + ch;
+        ztr += to_string(freq) + ch; // bcoz loop doesn't add last freq and its char
         return ztr;
     }
 };
