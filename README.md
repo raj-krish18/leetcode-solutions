@@ -31,6 +31,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/raj-krish18/leetcode-solutions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/raj-krish18/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
@@ -42,6 +43,7 @@
 | [0039-combination-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0228-summary-ranges](https://github.com/raj-krish18/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
@@ -74,4 +76,20 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/raj-krish18/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
