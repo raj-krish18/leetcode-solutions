@@ -42,6 +42,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raj-krish18/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/raj-krish18/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -81,10 +82,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raj-krish18/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raj-krish18/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-krish18/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
