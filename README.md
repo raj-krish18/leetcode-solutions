@@ -15,6 +15,7 @@
 | [0022-generate-parentheses](https://github.com/raj-krish18/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/raj-krish18/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/raj-krish18/leetcode-solutions/tree/master/0067-add-binary) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/raj-krish18/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,4 +123,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/raj-krish18/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/raj-krish18/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/raj-krish18/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/raj-krish18/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
