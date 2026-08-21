@@ -4,22 +4,14 @@ public:
         sort(satisfaction.begin(), satisfaction.end());
         int n = satisfaction.size();
         vector<int> coeff(n);
+        int sum = 0, total = 0;
         for (int j = 0; j < n; j++) {
-            
-            int coef = 0;
-            int time = 1;
-            for (int i = n-j-1; i < n; i++) {
-                coef += satisfaction[i] * time;
-                time++;
-            }
-            coeff[j] = coef;
-            if ( j!= 0 && coeff[j - 1] > coeff[j] )
-                if (coeff[j - 1] > 0)
-                return coeff[j-1];
-                else return 0;
+            sum += satisfaction[n-j-1];
+            if(sum < 0 ) return total;
+            total += sum;
         }
-        if (coeff[n - 1] > 0)
-                return coeff[n-1];
-        else return 0;
+        if (satisfaction[n - 1] < 0)
+                return 0;
+        return total;
     }
 };
