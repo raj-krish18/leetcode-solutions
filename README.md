@@ -48,6 +48,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-krish18/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1402-reducing-dishes](https://github.com/raj-krish18/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raj-krish18/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [1402-reducing-dishes](https://github.com/raj-krish18/leetcode-solutions/tree/master/1402-reducing-dishes) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-krish18/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1402-reducing-dishes](https://github.com/raj-krish18/leetcode-solutions/tree/master/1402-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -127,4 +130,8 @@
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/raj-krish18/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+## Greedy
+|  |
+| ------- |
+| [1402-reducing-dishes](https://github.com/raj-krish18/leetcode-solutions/tree/master/1402-reducing-dishes) |
 <!---LeetCode Topics End-->
