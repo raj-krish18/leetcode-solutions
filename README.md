@@ -50,6 +50,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-krish18/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-reducing-dishes](https://github.com/raj-krish18/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-krish18/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-krish18/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-reducing-dishes](https://github.com/raj-krish18/leetcode-solutions/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -129,9 +132,11 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/raj-krish18/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Greedy
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/raj-krish18/leetcode-solutions/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
