@@ -8,27 +8,30 @@ for folder in sorted(os.listdir(".")):
     if not os.path.isdir(folder):
         continue
 
-    if folder.startswith(".") or folder == "scripts":
+    if folder.startswith(".") or folder in {"scripts", "workflows"}:
         continue
 
     readme = os.path.join(folder, "README.md")
 
+    # Only LeetHub problem folders contain their own README.
+    if not os.path.exists(readme):
+        continue
+
     difficulty = ""
 
-    if os.path.exists(readme):
-        text = open(readme, encoding="utf8").read().lower()
+    text = open(readme, encoding="utf8").read().lower()
 
-        if "easy" in text:
-            easy += 1
-            difficulty = "🟢 Easy"
+    if "easy" in text:
+        easy += 1
+        difficulty = "🟢 Easy"
 
-        elif "medium" in text:
-            medium += 1
-            difficulty = "🟡 Medium"
+    elif "medium" in text:
+        medium += 1
+        difficulty = "🟡 Medium"
 
-        elif "hard" in text:
-            hard += 1
-            difficulty = "🔴 Hard"
+    elif "hard" in text:
+        hard += 1
+        difficulty = "🔴 Hard"
 
     total += 1
 
