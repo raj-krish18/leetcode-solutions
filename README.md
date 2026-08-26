@@ -52,6 +52,7 @@ Last Updated:
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0507-perfect-number) |
 | [2614-prime-in-diagonal](https://github.com/raj-krish18/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 ## Matrix
 |  |
