@@ -34,6 +34,7 @@ Last Updated:
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2615-sum-of-distances](https://github.com/raj-krish18/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
@@ -43,4 +44,8 @@ Last Updated:
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/raj-krish18/leetcode-solutions/tree/master/2615-sum-of-distances) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
