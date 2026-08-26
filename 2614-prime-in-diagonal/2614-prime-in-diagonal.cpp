@@ -11,10 +11,8 @@ public:
         int n = nums.size();
         int maxi = 0;
         for(int i = 0; i < n; i++){
-            bool check1 = isPrime(nums[i][i]);
-            bool check2 = isPrime(nums[i][n-i-1]);
-            if(check1== 1) maxi = max(maxi,nums[i][i]);
-            if(check2== 1) maxi = max(maxi,nums[i][n-i-1]);
+            if(nums[i][i] > maxi && isPrime(nums[i][i])) maxi = nums[i][i];
+            if(nums[i][n-i-1] > maxi && isPrime(nums[i][n-i-1]))  maxi = nums[i][n-i-1];
         }
         return maxi;
     }
