@@ -36,6 +36,7 @@ Last Updated:
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/raj-krish18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2614-prime-in-diagonal](https://github.com/raj-krish18/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2615-sum-of-distances](https://github.com/raj-krish18/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Hash Table
@@ -46,12 +47,14 @@ Last Updated:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/raj-krish18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2615-sum-of-distances](https://github.com/raj-krish18/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/raj-krish18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +72,7 @@ Last Updated:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/raj-krish18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
 | ------- |
