@@ -37,6 +37,7 @@ Last Updated:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/raj-krish18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raj-krish18/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2614-prime-in-diagonal](https://github.com/raj-krish18/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2615-sum-of-distances](https://github.com/raj-krish18/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Hash Table
@@ -73,8 +74,13 @@ Last Updated:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/raj-krish18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raj-krish18/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Database
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/raj-krish18/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raj-krish18/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
