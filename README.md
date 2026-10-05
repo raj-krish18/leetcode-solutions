@@ -79,6 +79,7 @@ Last Updated:
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/raj-krish18/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/raj-krish18/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Dynamic Programming
 |  |
 | ------- |
