@@ -35,6 +35,7 @@ Last Updated:
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-krish18/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/raj-krish18/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/raj-krish18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raj-krish18/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -59,6 +60,7 @@ Last Updated:
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/raj-krish18/leetcode-solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/raj-krish18/leetcode-solutions/tree/master/0507-perfect-number) |
 | [2614-prime-in-diagonal](https://github.com/raj-krish18/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 ## Matrix
@@ -68,6 +70,7 @@ Last Updated:
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/raj-krish18/leetcode-solutions/tree/master/0204-count-primes) |
 | [2614-prime-in-diagonal](https://github.com/raj-krish18/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 ## Sliding Window
 |  |
@@ -85,4 +88,20 @@ Last Updated:
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raj-krish18/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raj-krish18/leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raj-krish18/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raj-krish18/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raj-krish18/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
