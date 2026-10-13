@@ -108,6 +108,7 @@ Last Updated:
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/raj-krish18/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/raj-krish18/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
