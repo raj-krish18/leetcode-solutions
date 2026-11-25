@@ -110,6 +110,7 @@ Last Updated:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raj-krish18/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/raj-krish18/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raj-krish18/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/raj-krish18/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
