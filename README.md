@@ -39,6 +39,7 @@ Last Updated:
 | [0209-minimum-size-subarray-sum](https://github.com/raj-krish18/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/raj-krish18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raj-krish18/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2326-spiral-matrix-iv](https://github.com/raj-krish18/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2614-prime-in-diagonal](https://github.com/raj-krish18/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2615-sum-of-distances](https://github.com/raj-krish18/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Hash Table
@@ -68,6 +69,7 @@ Last Updated:
 ## Matrix
 |  |
 | ------- |
+| [2326-spiral-matrix-iv](https://github.com/raj-krish18/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2614-prime-in-diagonal](https://github.com/raj-krish18/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
@@ -117,6 +119,7 @@ Last Updated:
 | [0203-remove-linked-list-elements](https://github.com/raj-krish18/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raj-krish18/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raj-krish18/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/raj-krish18/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +136,8 @@ Last Updated:
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/raj-krish18/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/raj-krish18/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
